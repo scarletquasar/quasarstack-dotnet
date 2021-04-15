@@ -1,4 +1,4 @@
-<KNOWN BUG LIST>
+QuasarStack-DotNet <KNOWN BUG LIST> [v0.2]
 
 BUG #1: EasyData.FilterArray() | Due to several bugs the default return for this method will be string. This will be resolved in future versions of the library.
 
