@@ -6,7 +6,7 @@ namespace quasarStack
     public static class QuasarProductInfo
     {
         public static string Name = "quasarStack";
-        public static string Version = "[Alpha] [TestVer] 0.1";
+        public static string Version = "[Alpha] [TestVer] 0.2";
     }
     public static class General
     {
