@@ -1,9 +1,0 @@
-QuasarStack-DotNet <KNOWN BUG LIST> [v0.2]
-
-BUG #1: EasyData.FilterArray() | Due to several bugs the default return for this method will be string. This will be resolved in future versions of the library.
-
-BUG #2: EasyData.FilterArray() | Due to the previous bug and some problems derived, the filtering of numerical arrays should be performed by a specific function 
-for numbers.
-
-BUG #3: General.Version | There is a visual bug in the General module informing the incorrect version of the program. This bug has already been fixed and will no 
-longer exist in the next versions.
