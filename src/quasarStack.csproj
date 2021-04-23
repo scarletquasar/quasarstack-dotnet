@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Version>0.3</Version>
+    <Authors>Kayky Vitor Cruz</Authors>
+    <Description>quasarStack is a library focused on simplifying application development by providing quick solutions for data processing and specific modules for generalizing methods.</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/EternalQuasar0206/QuasarStack-DotNet</RepositoryUrl>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <Copyright>Kayky Vitor Cruz</Copyright>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Users\User\Documents\projetos_vs\quasarStack\quasarStack.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>

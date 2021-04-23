@@ -1,0 +1,8 @@
+C:\Users\User\Documents\projetos_vs\quasarStack\bin\Debug\netcoreapp3.1\quasarStack.deps.json
+C:\Users\User\Documents\projetos_vs\quasarStack\bin\Debug\netcoreapp3.1\quasarStack.pdb
+C:\Users\User\Documents\projetos_vs\quasarStack\obj\Debug\netcoreapp3.1\quasarStack.csprojAssemblyReference.cache
+C:\Users\User\Documents\projetos_vs\quasarStack\obj\Debug\netcoreapp3.1\quasarStack.AssemblyInfoInputs.cache
+C:\Users\User\Documents\projetos_vs\quasarStack\obj\Debug\netcoreapp3.1\quasarStack.AssemblyInfo.cs
+C:\Users\User\Documents\projetos_vs\quasarStack\obj\Debug\netcoreapp3.1\quasarStack.dll
+C:\Users\User\Documents\projetos_vs\quasarStack\obj\Debug\netcoreapp3.1\quasarStack.pdb
+C:\Users\User\Documents\projetos_vs\quasarStack\bin\Debug\netcoreapp3.1\quasarStack.dll
